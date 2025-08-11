@@ -26,6 +26,6 @@
 
 13.Write a Cron expression in Jenkins to poll SCM only at 8:00 AM and 8:00 PM daily.
 
-Write a Cron expression in Jenkins to poll SCM every 5 minutes between Monday and Friday.
+14. Write a Cron expression in Jenkins to poll SCM every 5 minutes between Monday and Friday.
 
-Write a Cron expression in Jenkins to poll SCM every day at a random time in the 3 PM hour.
+15. Write a Cron expression in Jenkins to poll SCM every day at a random time in the 3 PM hour.
